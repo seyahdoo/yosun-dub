@@ -99,85 +99,91 @@
   <property name="kdenlive:docproperties.externalproxyparams"/>
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
-  <property name="kdenlive:docproperties.guidesCategories">[
-    {
-        "color": "#9b59b6",
-        "comment": "Category 1",
-        "index": 0
-    },
-    {
-        "color": "#3daee9",
-        "comment": "Category 2",
-        "index": 1
-    },
-    {
-        "color": "#1abc9c",
-        "comment": "Category 3",
-        "index": 2
-    },
-    {
-        "color": "#1cdc9a",
-        "comment": "Category 4",
-        "index": 3
-    },
-    {
-        "color": "#c9ce3b",
-        "comment": "Category 5",
-        "index": 4
-    },
-    {
-        "color": "#fdbc4b",
-        "comment": "Category 6",
-        "index": 5
-    },
-    {
-        "color": "#f39c1f",
-        "comment": "Category 7",
-        "index": 6
-    },
-    {
-        "color": "#f47750",
-        "comment": "Category 8",
-        "index": 7
-    },
-    {
-        "color": "#da4453",
-        "comment": "Category 9",
-        "index": 8
-    }
-]
-</property>
-  <property name="kdenlive:docproperties.kdenliveversion">22.12.2</property>
-  <property name="kdenlive:docproperties.position">351</property>
-  <property name="kdenlive:docproperties.previewextension"/>
-  <property name="kdenlive:docproperties.previewparameters"/>
-  <property name="kdenlive:docproperties.profile">atsc_1080p_25</property>
-  <property name="kdenlive:docproperties.proxyextension"/>
-  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
-  <property name="kdenlive:docproperties.proxyimagesize">800</property>
-  <property name="kdenlive:docproperties.proxyminsize">1000</property>
-  <property name="kdenlive:docproperties.proxyparams"/>
-  <property name="kdenlive:docproperties.proxyresize">640</property>
-  <property name="kdenlive:docproperties.scrollPos">0</property>
-  <property name="kdenlive:docproperties.seekOffset">30000</property>
-  <property name="kdenlive:docproperties.version">1.04</property>
-  <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">-1</property>
-  <property name="kdenlive:docproperties.zonein">0</property>
-  <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">5</property>
-  <property name="kdenlive:expandedFolders"/>
-  <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:docproperties.groups">[
     {
         "children": [
             {
-                "data": "1:0",
+                "data": "3:429",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:0",
+                "data": "1:429",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:67",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:67",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:1422",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:1422",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "3:1036",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "1:1036",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:1163",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:1163",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:880",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:880",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -202,12 +208,27 @@
     {
         "children": [
             {
-                "data": "1:1163",
+                "data": "1:107",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "3:1163",
+                "data": "3:107",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Normal"
+    },
+    {
+        "children": [
+            {
+                "data": "1:0",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:0",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -318,103 +339,100 @@
             }
         ],
         "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:1422",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:1422",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:67",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:67",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:429",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:429",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:107",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:107",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "1:880",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "3:880",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
-    },
-    {
-        "children": [
-            {
-                "data": "3:1036",
-                "leaf": "clip",
-                "type": "Leaf"
-            },
-            {
-                "data": "1:1036",
-                "leaf": "clip",
-                "type": "Leaf"
-            }
-        ],
-        "type": "Normal"
     }
 ]
 </property>
+  <property name="kdenlive:docproperties.guidesCategories">[
+    {
+        "color": "#9b59b6",
+        "comment": "Category 1",
+        "index": 0
+    },
+    {
+        "color": "#3daee9",
+        "comment": "Category 2",
+        "index": 1
+    },
+    {
+        "color": "#1abc9c",
+        "comment": "Category 3",
+        "index": 2
+    },
+    {
+        "color": "#1cdc9a",
+        "comment": "Category 4",
+        "index": 3
+    },
+    {
+        "color": "#c9ce3b",
+        "comment": "Category 5",
+        "index": 4
+    },
+    {
+        "color": "#fdbc4b",
+        "comment": "Category 6",
+        "index": 5
+    },
+    {
+        "color": "#f39c1f",
+        "comment": "Category 7",
+        "index": 6
+    },
+    {
+        "color": "#f47750",
+        "comment": "Category 8",
+        "index": 7
+    },
+    {
+        "color": "#da4453",
+        "comment": "Category 9",
+        "index": 8
+    }
+]
+</property>
+  <property name="kdenlive:docproperties.kdenliveversion">22.12.2</property>
+  <property name="kdenlive:docproperties.position">0</property>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">atsc_1080p_25</property>
+  <property name="kdenlive:docproperties.proxyextension"/>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyimagesize">800</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams"/>
+  <property name="kdenlive:docproperties.proxyresize">640</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.rendercustomquality">-1</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.rendermode">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderpreview">0</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4-H264/AAC</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">540</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">960</property>
+  <property name="kdenlive:docproperties.renderspeed">6</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">-1</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">C:/Users/seyyid/Videos/yosun.mp4</property>
+  <property name="kdenlive:docproperties.scrollPos">0</property>
+  <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.version">1.04</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">75</property>
+  <property name="kdenlive:docproperties.zoom">5</property>
+  <property name="kdenlive:expandedFolders"/>
+  <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
-  <entry producer="producer0" in="00:00:00.000" out="00:00:04.960"/>
-  <entry producer="producer1" in="00:00:00.000" out="00:00:04.960"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer0" in="00:00:00.000" out="00:00:26.960"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:00:22.520"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:00:26.200"/>
   <entry producer="producer3" in="00:00:00.000" out="00:00:59.840"/>
  </playlist>
  <producer id="black_track" in="00:00:00.000" out="00:20:58.600">
@@ -466,6 +484,10 @@
   <property name="length">1497</property>
   <property name="eof">pause</property>
   <property name="resource">sound edit.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s16</property>
@@ -475,10 +497,6 @@
   <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
   <property name="meta.media.0.codec.bit_rate">705600</property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">1</property>
   <property name="kdenlive:folderid">-1</property>
@@ -588,8 +606,6 @@
  <playlist id="playlist6">
   <entry producer="producer0" in="00:00:00.000" out="00:00:02.640">
    <property name="kdenlive:id">2</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <property name="kdenlive:hide_keyframes">1</property>
    <filter id="filter6">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -669,7 +685,6 @@
   </entry>
   <entry producer="producer1" in="00:00:00.000" out="00:00:03.200">
    <property name="kdenlive:id">3</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter12">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -735,7 +750,6 @@
   </entry>
   <entry producer="producer2" in="00:00:00.000" out="00:00:06.200">
    <property name="kdenlive:id">4</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter17">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
